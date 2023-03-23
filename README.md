@@ -1,5 +1,5 @@
 # Explainable Career Path Predictions
-### Roan Schellingerhout BSc
+### Roan Schellingerhout
 
 ## Index:
 - data_processing: all notebooks related to the (pre)processing of data.
